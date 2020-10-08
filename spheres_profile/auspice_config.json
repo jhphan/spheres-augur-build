@@ -1,7 +1,7 @@
 {
-  "build_url": "https://github.com/myusername/myrepository/",
+  "build_url": "https://github.com/CDCgov/spheres-augur-build/",
   "maintainers": [
-    {"name": "My name", "url": "www.myurl.com"}
+    {"name": "CDC/OAMD", "url": "https://amdportal-sams.cdc.gov/"}
   ],
   "colorings": [
     {

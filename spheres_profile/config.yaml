@@ -25,7 +25,7 @@ use-conda: True
 #
 
 # Run no more than this many jobs at once on the cluster.
-cores: 20
+cores: 100
 
 # On failure of one or more jobs, try to finish running all other jobs until the
 # workflow has to be restarted.
